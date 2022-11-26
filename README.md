@@ -7,4 +7,4 @@ Criando usuários no banco de dados com Node.js e Express
 
 
 
--Esse código pode ser aproveitado para ser feito o CRUD. 
+-Esse código pode ser aproveitado para ser feito CRUD. 
